@@ -1,4 +1,4 @@
-//Lebron James
+//Lebron Curry
 //Steph curry
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
