@@ -1,4 +1,4 @@
-//Michael Callahan
+//Michael Phelps
 //Steph curry
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
