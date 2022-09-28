@@ -1,4 +1,4 @@
-//Lebron James
+//Michael Callahan
 //Steph curry
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
