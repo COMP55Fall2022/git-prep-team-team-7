@@ -1,4 +1,5 @@
 //Lebron James
+//Steph curry
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
