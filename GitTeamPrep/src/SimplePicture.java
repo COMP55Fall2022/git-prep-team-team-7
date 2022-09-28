@@ -1,3 +1,5 @@
+//Lebron James
+//Steph curry
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
@@ -10,7 +12,7 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	
 	public void run() {
-		GImage robot = new GImage("robot.png", 200, 200);
+		GImage robot = new GImage("robot.png", 200, 300);
 		add(robot);
 		GLabel label = new GLabel("Lebron James", 200, 400);
 		add(label);
