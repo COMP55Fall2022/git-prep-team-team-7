@@ -10,11 +10,11 @@ public class SimplePicture extends GraphicsProgram {
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
-	
+
 	public void run() {
 		GImage robot = new GImage("robot.png", 200, 300);
 		add(robot);
-		GLabel label = new GLabel("Lebron James", 200, 400);
+		GLabel label = new GLabel("Lebron James", 250, 400);
 		add(label); // Ryan 
 		}
 	
