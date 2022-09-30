@@ -11,13 +11,9 @@ public class SimplePicture extends GraphicsProgram {
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
-<<<<<<< HEAD
 	//TA
 	//COMP 55
 	//GITHUB
-=======
-
->>>>>>> branch 'main' of https://github.com/COMP55Fall2022/git-prep-team-team-7.git
 	public void run() {
 		GImage robot = new GImage("robot.png", 200, 300);
 		add(robot);
