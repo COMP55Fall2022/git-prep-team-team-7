@@ -1,5 +1,6 @@
-//Michael Phelps
+//Lebron Curry
 //Steph curry
+// HELLO
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
