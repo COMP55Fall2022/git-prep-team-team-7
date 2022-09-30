@@ -1,6 +1,5 @@
-//Lebron Curry
-//Steph curry
-// HELLO
+//Lebron James :O
+//Steph curry :D
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
